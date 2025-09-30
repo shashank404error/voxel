@@ -1,0 +1,169 @@
+[
+  {
+    "text": "कल्पना कीजिए कि एक रहस्यमय जंगल है,",
+    "exaggeration": 0.7,
+    "cfg": 0.5
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 300
+  },
+  {
+    "text": "जहाँ कई छोटी छोटी नदियाँ और घुमावदार रास्ते हैं,",
+    "exaggeration": 0.6,
+    "cfg": 0.45
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 300
+  },
+  {
+    "text": "और जंगल के बीच में एक विशाल, चमकती हुई घड़ी रखी है।",
+    "exaggeration": 0.9,
+    "cfg": 0.6
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 700
+  },
+  {
+    "text": "इस घड़ी की सुईयाँ सिर्फ समय नहीं दिखातीं,",
+    "exaggeration": 0.9,
+    "cfg": 0.65
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 400
+  },
+  {
+    "text": "बल्कि पूरे जंगल के हर नदी और पत्ते की गति को नियंत्रित करती हैं।",
+    "exaggeration": 1.1,
+    "cfg": 0.75
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 800
+  },
+  {
+    "text": "अगर आप एक सुई को हल्की सी छू दें,",
+    "exaggeration": 0.7,
+    "cfg": 0.45
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 400
+  },
+  {
+    "text": "तो शुरू में तो कुछ खास बदलाव नहीं दिखता,",
+    "exaggeration": 0.6,
+    "cfg": 0.4
+  },
+  {
+    "text": "लेकिन धीरे धीरे उसका असर पूरे जंगल में फैलने लगता है।",
+    "exaggeration": 1.0,
+    "cfg": 0.65
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 700
+  },
+  {
+    "text": "एक नदी अचानक अपना रास्ता बदल देती है,",
+    "exaggeration": 1.2,
+    "cfg": 0.7
+  },
+  {
+    "text": "पत्तियाँ नए रास्तों पर गिरती हैं,",
+    "exaggeration": 1.1,
+    "cfg": 0.65
+  },
+  {
+    "text": "और छोटे जानवर अपने रास्ते बदल लेते हैं।",
+    "exaggeration": 1.1,
+    "cfg": 0.65
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 900
+  },
+  {
+    "text": "यही हाइपरकैओस है,",
+    "exaggeration": 1.3,
+    "cfg": 0.8
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 500
+  },
+  {
+    "text": "जहाँ छोटे-से बदलाव पूरे सिस्टम में इतनी तेजी से फैलते हैं",
+    "exaggeration": 1.4,
+    "cfg": 0.8
+  },
+  {
+    "text": "कि भविष्य का अनुमान लगाना लगभग नामुमकिन हो जाता है।",
+    "exaggeration": 1.5,
+    "cfg": 0.8
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 800
+  },
+  {
+    "text": "यह केवल जंगल की कहानी नहीं है,",
+    "exaggeration": 0.9,
+    "cfg": 0.6
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 400
+  },
+  {
+    "text": "बल्कि विज्ञान में भी ऐसे जटिल और अप्रत्याशित व्यवहार होते हैं,",
+    "exaggeration": 1.1,
+    "cfg": 0.7
+  },
+  {
+    "text": "...",
+    "exaggeration": 0.0,
+    "cfg": 0.0,
+    "duration_ms": 300
+  },
+  {
+    "text": "जैसे मौसम,",
+    "exaggeration": 0.9,
+    "cfg": 0.6
+  },
+  {
+    "text": "जैविक नेटवर्क",
+    "exaggeration": 0.9,
+    "cfg": 0.6
+  },
+  {
+    "text": "या आर्थिक मॉडल में।",
+    "exaggeration": 0.9,
+    "cfg": 0.6
+  }
+]

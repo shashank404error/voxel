@@ -1,0 +1,149 @@
+HunyuanVideo-Avatar-voxel/__pycache__/
+HunyuanVideo-Avatar-voxel/temp/
+HunyuanVideo-Avatar-voxel/.gradio/
+HunyuanVideo-Avatar-voxel/assets/
+
+.vscode
+
+# Pylance
+chatterbox-streaming/pyrightconfig.json
+
+# Byte-compiled / optimized / DLL files
+chatterbox-streaming/__pycache__/
+chatterbox-streaming/*.py[cod]
+chatterbox-streaming/*$py.class
+
+# C extensions
+chatterbox-streaming/*.so
+
+# Distribution / packaging
+chatterbox-streaming/.Python
+chatterbox-streaming/build/
+chatterbox-streaming/develop-eggs/
+chatterbox-streaming/dist/
+chatterbox-streaming/downloads/
+chatterbox-streaming/eggs/
+chatterbox-streaming/.eggs/
+chatterbox-streaming/lib/
+chatterbox-streaming/lib64/
+chatterbox-streaming/parts/
+chatterbox-streaming/sdist/
+chatterbox-streaming/var/
+chatterbox-streaming/wheels/
+chatterbox-streaming/*.egg-info/
+chatterbox-streaming/.installed.cfg
+chatterbox-streaming/*.egg
+chatterbox-streaming/MANIFEST
+chatterbox-streaming/venv/
+chatterbox-streaming/audio_data/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+chatterbox-streaming/*.manifest
+chatterbox-streaming/*.spec
+
+# Installer logs
+chatterbox-streaming/pip-log.txt
+chatterbox-streaming/pip-delete-this-directory.txt
+
+chatterbox-streaming/syn_out/
+chatterbox-streaming/checkpoints/
+chatterbox-streaming/audio_data/
+chatterbox-streaming/raw_audio/
+chatterbox-streaming/.venv/
+chatterbox-streaming/.gradio
+
+# Ignore generated sample .wav files
+chatterbox-streaming/**/*.wav
+
+# Byte-compiled / optimized / DLL files
+ditto-talkinghead/__pycache__/
+ditto-talkinghead/*__pycache__
+ditto-talkinghead/**/__pycache__/
+ditto-talkinghead/*.py[cod]
+ditto-talkinghead/**/*.py[cod]
+ditto-talkinghead/*$py.class
+
+# Model weights
+ditto-talkinghead/checkpoints
+ditto-talkinghead/**/*.pth
+ditto-talkinghead/**/*.onnx
+ditto-talkinghead/**/*.pt
+ditto-talkinghead/**/*.pth.tar
+
+ditto-talkinghead/.idea
+ditto-talkinghead/.vscode
+ditto-talkinghead/.DS_Store
+ditto-talkinghead/*.DS_Store
+
+ditto-talkinghead/*.swp
+ditto-talkinghead/tmp*
+
+ditto-talkinghead/*build
+ditto-talkinghead/*.egg-info/
+ditto-talkinghead/*.mp4
+
+ditto-talkinghead/log/*
+ditto-talkinghead/*.mp4
+ditto-talkinghead/*.png
+ditto-talkinghead/*.jpg
+ditto-talkinghead/*.wav
+ditto-talkinghead/*.pth
+ditto-talkinghead/*.pyc
+ditto-talkinghead/*.jpeg
+
+!ditto-talkinghead/example/audio.wav
+!ditto-talkinghead/example/image.png
+
+
+streaming-chatterbox-voxel/.vscode
+
+# Pylance
+streaming-chatterbox-voxel/pyrightconfig.json
+
+# Byte-compiled / optimized / DLL files
+streaming-chatterbox-voxel/__pycache__/
+streaming-chatterbox-voxel/*.py[cod]
+streaming-chatterbox-voxel/*$py.class
+
+# C extensions
+streaming-chatterbox-voxel/*.so
+
+# Distribution / packaging
+streaming-chatterbox-voxel/.Python
+streaming-chatterbox-voxel/build/
+streaming-chatterbox-voxel/develop-eggs/
+streaming-chatterbox-voxel/dist/
+streaming-chatterbox-voxel/downloads/
+streaming-chatterbox-voxel/eggs/
+streaming-chatterbox-voxel/.eggs/
+streaming-chatterbox-voxel/lib/
+streaming-chatterbox-voxel/lib64/
+streaming-chatterbox-voxel/parts/
+streaming-chatterbox-voxel/sdist/
+streaming-chatterbox-voxel/var/
+streaming-chatterbox-voxel/wheels/
+streaming-chatterbox-voxel/*.egg-info/
+streaming-chatterbox-voxel/.installed.cfg
+streaming-chatterbox-voxel/*.egg
+streaming-chatterbox-voxel/MANIFEST
+streaming-chatterbox-voxel/venv/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+streaming-chatterbox-voxel/*.manifest
+streaming-chatterbox-voxel/*.spec
+
+# Installer logs
+streaming-chatterbox-voxel/pip-log.txt
+streaming-chatterbox-voxel/pip-delete-this-directory.txt
+
+streaming-chatterbox-voxel/syn_out/
+streaming-chatterbox-voxel/checkpoints/
+streaming-chatterbox-voxel/.gradio
+
+# Ignore generated sample .wav files
+streaming-chatterbox-voxel/**/*.wav
+insta_vid_gen/
