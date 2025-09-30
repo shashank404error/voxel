@@ -9,6 +9,7 @@ Voxel is an advanced AI-powered pipeline for generating realistic talking avatar
   <video src="assets/demo_english.mp4" controls width="24%" title="Me talking about voxel. 256 resolution."></video>
   <video src="assets/engg_topic_hindi.mp4" controls width="24%" title="A teacher talking about capabilities of voxel. 256 resolution."></video>
 </p>
+
 ## Key Features
 
 - **Voice Cloning**: Clone any voice from a short audio sample
