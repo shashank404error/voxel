@@ -3,12 +3,12 @@
 Voxel is an advanced AI-powered pipeline for generating realistic talking avatars from a single image and audio input. By combining state-of-the-art voice cloning and diffusion models, Voxel creates lifelike animations with synchronized lip movements and natural expressions.
 
 ## Example of videos generated on my 24Gib VRAM GPU with CPU offloading and fp8.
-<p float="left">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <video src="https://github.com/user-attachments/assets/5e89d681-3739-457e-bfed-2da8df0e9c53" controls width="24%" title="Me talking about hyperchaos in hindi. 512 resolution."></video>
   <video src="https://github.com/user-attachments/assets/89577174-b34a-4061-8fe3-f748bb5c6da2" controls width="24%" title="A teacher teaching a topic to his students. 512 resolution"></video>
   <video src="https://github.com/user-attachments/assets/373fb800-ba98-41a5-a2a3-a22c2ee93492" controls width="24%" title="Me talking about voxel in english. 256 resolution."></video>
   <video src="https://github.com/user-attachments/assets/203dbcd0-9ad7-486f-987b-4ff9b9223880" controls width="24%" title="A teacher talking about capabilities of voxel. 256 resolution."></video>
-</p>
+</div>
 
 ## Key Features
 
